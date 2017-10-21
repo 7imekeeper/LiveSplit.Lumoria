@@ -1,0 +1,5 @@
+.vs/
+LiveSplit.Lumoria/.vs/
+LiveSplit.Lumoria/obj/
+LiveSplit.Lumoria/bin/
+*.pdb
