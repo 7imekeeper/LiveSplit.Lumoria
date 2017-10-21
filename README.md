@@ -1,4 +1,4 @@
-This is a LiveSplit (livesplit.org) component for Medal of Honor: Airborne. It automates splitting.
+This is a LiveSplit (livesplit.org) component for the custom Halo CE campaign, Lumoria. It automates splitting.
 
 Features:
 
